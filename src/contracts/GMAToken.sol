@@ -34,7 +34,7 @@ contract GMAToken {
 
     // Precio de los tokens ERC20
     function tokenPrice(uint256 _numtokens) internal pure returns (uint256) {
-        return (_numtokens / 10**18) * (0.01 ether);
+        return (_numtokens / 10**18) * (0.001 ether);
     }
 
     // Transferencia de tokens de un usuario

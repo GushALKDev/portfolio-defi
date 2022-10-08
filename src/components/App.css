@@ -28,65 +28,65 @@
 }
 
 .logo {
-    height: 50px;
-    pointer-events: none;
-    margin-right: 5px;
-    border: 2px solid white;
-    border-radius: 100px;
+  height: 50px;
+  pointer-events: none;
+  margin-right: 5px;
+  border: 2px solid white;
+  border-radius: 100px;
 }
-  
+
 .portfolio {
-    height: 54px;
-    border: 0px solid white;
-    border-radius: 100px;
-    padding: 2px;
-    margin-right: 10px;
+  height: 54px;
+  border: 0px solid white;
+  border-radius: 100px;
+  padding: 2px;
+  margin-right: 10px;
 }
 
 .footer {
-    height: 65px;
-    position: fixed;
-    font-weight: 200;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #2c3136;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    padding: 20px;
-  }
-  
-  .footer a {
+  height: 65px;
+  position: fixed;
+  font-weight: 200;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2c3136;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+}
+
+.footer a {
   color: #fff;
   text-decoration: none;
-  }
+}
 
-  .spacer {
-    margin-bottom: 50px;
-  }
+.spacer {
+  margin-bottom: 50px;
+}
 
-  .menu {
-    margin-right: auto;
-  }
+.menu {
+  margin-right: auto;
+}
 
-  .staking-balances {
-    text-align: right;
-    margin-bottom: 15px;
-  }
-  
-  .staking-container {
-    width: 550px;
-    margin: auto;
-    border-radius: 15px;
-  }
+.staking-balances {
+  text-align: right;
+  margin-bottom: 15px;
+}
 
-  .content {
-    max-width: 750px;
-    justify-content: center;
-    display: flex;
-    flex-wrap: wrap;
-    margin: auto;
-    padding: 20px 15px 50px 15px;
+.staking-container {
+  width: 550px;
+  margin: auto;
+  border-radius: 15px;
+}
+
+.content {
+  max-width: 750px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  padding: 20px 15px 50px 15px;
 }
 
 .home_content {
